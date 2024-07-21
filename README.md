@@ -33,6 +33,7 @@ Ensure you have a Solidity development environment set up, such as Remix or Truf
 ![image](https://github.com/user-attachments/assets/4f3b6f85-5456-455a-ac13-d969748a81a7)
 
 4. Now burn those minted tokens by pasting the address in _address variable:
+   
    ![image](https://github.com/user-attachments/assets/958f9962-ca09-43ed-a489-9bbab7e46fb0)
 
 ##see the total suuply has changed from 1000 to 0 after burning the minted coin.
