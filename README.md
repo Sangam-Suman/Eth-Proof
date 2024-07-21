@@ -15,3 +15,8 @@ MyToken is a smart contract written in Solidity, designed to create a custom tok
   Clone the repository:
   ```sh
   git clone https://github.com/yourusername/MyToken.git
+
+##Navigate to the project directory:
+
+```sh
+cd MyToken
